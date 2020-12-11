@@ -13,7 +13,9 @@ CAnibarro(at)WhiteSith(dot)com<br />
 [http://www.impuestos.gob.bo/index.php?option=com_content&view=article&id=1564&Itemid=584](http://www.impuestos.gob.bo/index.php?option=com_content&view=article&id=1564&Itemid=584)<br />
 [http://www.impuestos.gob.bo/images/GACCT/FACTURACION/CodigoControlV7.pdf](http://www.impuestos.gob.bo/images/GACCT/FACTURACION/CodigoControlV7.pdf)<br />
 [http://www.impuestos.gob.bo/images/GACCT/FACTURACION/5000CasosPruebaCCVer7.txt](http://www.impuestos.gob.bo/images/GACCT/FACTURACION/5000CasosPruebaCCVer7.txt)<br />
-<br /><br />
+[https://www.impuestos.gob.bo/ckeditor/plugins/imageuploader/uploads/356aea02e.pdf](https://www.impuestos.gob.bo/ckeditor/plugins/imageuploader/uploads/356aea02e.pdf)<br />
+<br />
+<br />
 
 ## Requisitos:<br />
 
