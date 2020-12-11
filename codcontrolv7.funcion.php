@@ -155,7 +155,7 @@
       return $codigocontrol;
     }
   }
-  echo "Codigo de Control para Facturacion en BOLIVIA Segun v7".PHP_EOL;
+  /*echo "Codigo de Control para Facturacion en BOLIVIA Segun v7".PHP_EOL;
   echo "------------------------------------------------------".PHP_EOL;
   echo "Probando: ".CodigoControl(29040011007,1503,4189179011,20070702,2500,'9rCB7Sv4X29d)5k7N%3ab89p-3(5[A')."\n"; 
   $fichero = @fopen("5000CasosPruebaCCVer7.txt", "r");
@@ -179,6 +179,6 @@
       echo "Error: unexpected fgets() fail\n";
     }
     fclose($fichero);
-  }
+  }*/
 
 ?>
